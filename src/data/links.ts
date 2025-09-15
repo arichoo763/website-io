@@ -26,7 +26,7 @@ export const datalinks: TDatalinks[] = [
   },
   {
     url: "https://app.aigaea.net/register?ref=ga9KDm8SBwJsvg",
-    label: "Aigaea",
+    label: "Gaea",
     logo: "/images/projects/aigaea.png",
   },
   {

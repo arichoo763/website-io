@@ -15,7 +15,7 @@ export default function LinkItem(props: TDatalinks) {
         <div className='w-8 h-8 shrink-0'>
           <Image className='w-full h-full border rounded-full' src={props.logo} width={100} height={100} alt='mas io' />
         </div>
-        <div className='flex-1 flex justify-center'>{ props.label}</div>
+        <div className='flex-1 flex text-sm justify-center'>{props.label}</div>
         <div className='w-12 shrink-0'></div>
       </div>
     </Link>
