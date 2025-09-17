@@ -84,4 +84,9 @@ export const datalinks: TDatalinks[] = [
     label: "Spark Chain",
     logo: "/images/projects/spark.png",
   },
+  {
+    url: "https://app.getoro.xyz/?referralCode=JFX33S",
+    label: "Oro Ai",
+    logo: "/images/projects/oro.png",
+  },
 ];
