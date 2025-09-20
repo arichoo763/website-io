@@ -5,6 +5,11 @@ export type TDatalinks = {
 };
 export const datalinks: TDatalinks[] = [
   {
+    url: "https://app.browser.cash/install?ref=7ohp3czj",
+    label: "Browser Cash",
+    logo: "/images/projects/cash.png",
+  },
+  {
     url: "https://app.nodepay.ai/register?ref=qNGIdJekhAZDf3l",
     label: "Nodepay",
     logo: "/images/projects/nodepay.png",
