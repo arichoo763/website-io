@@ -5,7 +5,7 @@ import React from 'react'
 export default function BottomNavbar() {
   return (
     <footer className='max-w-lg mx-auto w-full sticky bottom-0 z-30 backdrop-blur-lg'>
-      <div className="px-2 h-[80px] flex items-center justify-center gap-x-4">
+      <div className="px-3 h-[60px] flex items-center justify-center gap-x-4">
         <Link className='bg-white dark:bg-slate-950 h-9 w-9 border flex items-center justify-center rounded-lg' href="https://x.com/mostviralhere?t=CIzuFPVOdi6Fe8ZjDhIXew&s=09" target="_blank" rel="noopener noreferrer">
           <Icon name='fa6-brands:x-twitter' />
         </Link>
